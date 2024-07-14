@@ -19,8 +19,8 @@ This Flask application provides a web interface and API endpoints to manage Dock
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/flask-docker-manager.git
-   cd flask-docker-manager
+   git clone https://github.com/Jose-Rafaels/manage-docker-using-flask-api.git
+   cd manage-docker-using-flask-api
    ```
 
 2. Create and activate a virtual environment:
